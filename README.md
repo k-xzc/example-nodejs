@@ -10,3 +10,5 @@ or
 node app/hello-2.js
 
 In case of hello-1 , it need to have redis server to keep session & timestamp
+export port=redis_port
+export host=redis_host
